@@ -15,6 +15,5 @@ If you find a bug or have a suggestion, please open an issue in the repository w
 ## Code Style
 - Follow standard coding practices.
 - Keep code clean, readable, and well documented.
-
 ## Review Process
 All contributions will be reviewed by the project maintainer before being merged.
